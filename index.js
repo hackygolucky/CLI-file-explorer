@@ -1,6 +1,3 @@
-/**
- * Module dependencies
- */
 var fs = require('fs')
 	, stdin = process.stdin
 	, stdout = process.stdout;
